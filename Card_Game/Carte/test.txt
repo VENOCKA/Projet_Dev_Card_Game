@@ -1,0 +1,5 @@
+1,1,1,Terrain,Mana
+2,1,1,Eclair de feu,Mana
+1,1,1,Reserve de mana,Mana
+3,1,1,Soin,Mana
+4,1,1,Bouclier,Mana

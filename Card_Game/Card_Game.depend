@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1592523866 source:d:\cours\projet\projet_dev\card_game\main.cpp
+	<stdio.h>
+	"Combat.h"
+
+1592560105 d:\cours\projet\projet_dev\card_game\combat.h
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<unistd.h>
+	<iostream>
+	<fstream>
+	<string>
+
